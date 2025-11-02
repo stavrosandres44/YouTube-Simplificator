@@ -1,6 +1,6 @@
 # What's YouTube simplificator?
 YouTube simplificator is a Chrome Extension that executes on (youtube.com)
-it deletes useless UI elements to simplify the interface.
+to delete HTML classes and simplify the interface
 
 # How does it work?
 YouTube simplificator works by having a mutation observer and node vigillance
