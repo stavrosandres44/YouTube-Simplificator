@@ -24,7 +24,7 @@ the average youtube user doesn't use) using mutation observer and node vigillanc
 7. Click the folder that contains the zip's contents
 8. Done
 
-**Is YouTube Simplificator Open Source**
+**Is YouTube Simplificator Open Source?**
 
-Yes YouTube simplificator is Open Source you can make forks
-and variations of it adapted to your preferences.
+Yes YouTube simplificator is indeed Open Source, It has the MIT license,
+you can make forks and variations of it adapted to your preferences.
