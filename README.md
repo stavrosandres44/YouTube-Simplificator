@@ -28,3 +28,9 @@ the average youtube user doesn't use) using mutation observer and node vigillanc
 
 Yes YouTube simplificator is indeed Open Source, It has the MIT license,
 you can make forks and variations of it adapted to your preferences.
+
+**How do I submit feedback/functionality?**
+
+To submit feedback or functionality to YouTube simplificator you can go
+to https://docs.google.com/forms/d/e/1FAIpQLSfKsfFB_WGJ80z9LZPQAI3jj5Y8J6ImE1uhf_Oni67GVPV7eA/viewform?usp=dialog
+take in count that your feedback can be denied, ignored, or pending.
