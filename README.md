@@ -23,3 +23,8 @@ the average youtube user doesn't use) using mutation observer and node vigillanc
 6. Select Load extension without packing
 7. Click the folder that contains the zip's contents
 8. Done
+
+**Is YouTube Simplificator Open Source**
+
+Yes YouTube simplificator is Open Source you can make forks
+and variations of it adapted to your preferences.
