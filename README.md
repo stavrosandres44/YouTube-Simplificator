@@ -9,17 +9,17 @@ and delete them instantly and in background.
 
 # Frequently Asked Questions
 
-1. Is YouTube Simplificator Malicious?
+**Is YouTube Simplificator Malicious?**
 
-————No YouTube simplificator is not malicious, it helps delete HTML elements (mostly ui elements
+No YouTube simplificator is not malicious, it helps delete HTML elements (mostly ui elements
 the average youtube user doesn't use) using mutation observer and node vigillance.
 
-2. How to use it?
-- Download the repository
-- Extract the zip's contents
-- Move the contents to a folder
-- Go to `chrome://extensions/`
-- Enable developer mode
-- Select Load extension without packing
-- Click the folder that contains the zip's contents
-- Done
+**How to use it?**
+1. Download the repository
+2. Extract the zip's contents
+3. Move the contents to a folder
+4. Go to `chrome://extensions/`
+5. Enable developer mode
+6. Select Load extension without packing
+7. Click the folder that contains the zip's contents
+8. Done
