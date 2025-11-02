@@ -10,6 +10,7 @@ and delete them instantly and in background.
 # Frequently Asked Questions
 
 1. Is YouTube Simplificator Malicious?
+
 ————No YouTube simplificator is not malicious, it helps delete HTML elements (mostly ui elements
 the average youtube user doesn't use) using mutation observer and node vigillance.
 
