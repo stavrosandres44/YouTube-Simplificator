@@ -34,3 +34,7 @@ you can make forks and variations of it adapted to your preferences.
 To submit feedback or functionality to YouTube simplificator you can go
 to https://docs.google.com/forms/d/e/1FAIpQLSfKsfFB_WGJ80z9LZPQAI3jj5Y8J6ImE1uhf_Oni67GVPV7eA/viewform?usp=dialog
 take in count that your feedback can be denied, ignored, or pending.
+
+**Why is YouTube Simplificator not available on the Chrome Web Store?**
+YouTube Simplificator is not available on the webstore because of the 
+$5 distribution fare
