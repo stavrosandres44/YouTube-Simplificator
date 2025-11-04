@@ -36,5 +36,6 @@ to https://docs.google.com/forms/d/e/1FAIpQLSfKsfFB_WGJ80z9LZPQAI3jj5Y8J6ImE1uhf
 take in count that your feedback can be denied, ignored, or pending.
 
 **Why is YouTube Simplificator not available on the Chrome Web Store?**
+
 YouTube Simplificator is not available on the webstore because of the 
-$5 distribution fare
+$5 distribution fee, that is currently not able to be paid.
